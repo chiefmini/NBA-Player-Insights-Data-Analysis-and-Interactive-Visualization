@@ -29,4 +29,3 @@ This is a Python-based project designed to collect, analyze, and visualize NBA p
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/NBA-Player-Insights-Data-Analysis-and-Interactive-Visualization.git
-   cd NBA-Player-Insights-Data-Analysis-and-Interactive-Visualization
